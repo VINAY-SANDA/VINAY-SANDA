@@ -112,27 +112,8 @@ My goal is to build scalable products that improve healthcare, accessibility, an
 
 ---
 
-# 📈 GitHub Analytics
 
-<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=VINAY-SANDA&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINAY-SANDA&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VINAY-SANDA&theme=tokyonight"/>
-
-</div>
-
----
 
 # 📊 Contribution Graph
 
