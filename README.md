@@ -8,8 +8,8 @@
 
 ### Building technology that creates real-world impact.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://vinay-sanda.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinay-sanda-/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:thevinay02@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=VINAY-SANDA&label=Profile+Views&color=0e75b6&style=flat" />
