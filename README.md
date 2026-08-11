@@ -143,34 +143,6 @@ My goal is to build scalable products that improve healthcare, accessibility, an
 </div>
 
 ---
-
-# 🐍 Contribution Snake
-
-> Create this using GitHub Actions
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@master
-```
-
-Then add:
-
-```md
-![Snake animation](https://github.com/VINAY-SANDA/VINAY-SANDA/blob/output/github-contribution-grid-snake.svg)
-```
-
----
-
 # 🚀 Featured Projects
 
 ## 🩺 Remote Health Monitoring System
@@ -256,9 +228,9 @@ Agentic AI          ██████░░░░░░ 60%
 
 📧 Email: thevinay02@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/vinay-sanda-/
 
-🌐 Portfolio: YOUR_PORTFOLIO
+🌐 Portfolio: https://vinay-sanda.vercel.app/
 
 🐙 GitHub: https://github.com/VINAY-SANDA
 
